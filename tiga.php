@@ -10,6 +10,6 @@ function drawLine($total) {
     }
 }
 
-drawLine(12);
+drawLine(8);
 
 ?>
